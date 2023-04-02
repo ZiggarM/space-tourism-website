@@ -807,7 +807,7 @@ body {
 
   .grid-container--technology {
     grid-template-columns:
-      minmax(3rem, 1fr) minmax(0, 3rem) minmax(0, 57rem) minmax(0, 20rem)
+      minmax(0rem, 1fr) minmax(0, 3rem) minmax(0, 57rem) minmax(0, 20rem)
       0;
     /* justify-items: start; */
     grid-template-areas:
